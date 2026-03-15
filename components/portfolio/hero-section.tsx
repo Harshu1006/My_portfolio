@@ -29,7 +29,7 @@ export function HeroSection() {
             transition={{ delay: 0.3, duration: 0.6 }}
             className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground tracking-tight text-balance"
           >
-            Alex Chen
+            Harsh Bhardwaj
           </motion.h1>
 
           <motion.h2
