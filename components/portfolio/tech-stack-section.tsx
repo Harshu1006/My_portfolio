@@ -47,6 +47,18 @@ const technologies = [
     description: "Machine learning integration",
     level: "Basic",
   },
+   {
+    name: "MongoDB",
+    icon: Database,
+    description: "NoSQL database design & management",
+    level: "Basic",
+  },
+   {
+    name: "Express.js",
+    icon: Server,
+    description: "Backend API development",
+    level: "Intermediate",
+  },
 ]
 
 const containerVariants = {
