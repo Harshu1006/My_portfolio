@@ -7,10 +7,10 @@ import { Badge } from "@/components/ui/badge"
 
 const projects = [
   {
-    title: "Career Guidance Web App",
-    description: "AI/ML-powered platform providing personalized career recommendations based on skills, interests, and market trends. Features intelligent matching algorithms and real-time job market analysis.",
+    title: "Image Search Web App",
+    description: "AI-powered image search application that allows users to find relevant images based on natural language queries, utilizing deep learning models for accurate results.",
     icon: Cpu,
-    tags: ["Python", "TensorFlow", "React", "FastAPI"],
+    tags: ["html", "css", "javascript", "FastAPI"],
     featured: true,
     liveUrl: "#",
     githubUrl: "#",
@@ -19,7 +19,7 @@ const projects = [
     title: "E-Commerce Platform",
     description: "Full-stack e-commerce solution with real-time inventory management, payment processing, and analytics dashboard.",
     icon: ShoppingCart,
-    tags: ["Next.js", "Node.js", "PostgreSQL", "Stripe"],
+    tags: ["React", "Node.js", "express", "MongoDB  "],
     featured: false,
     liveUrl: "#",
     githubUrl: "#",

@@ -76,7 +76,7 @@ export function HeroSection() {
             className="flex gap-4 pt-6"
           >
             <a
-              href="https://github.com"
+              href="https://github.com/Harshu1006"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors duration-300"
@@ -85,7 +85,7 @@ export function HeroSection() {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/harsh-bhardwaj-152577334/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors duration-300"
@@ -94,7 +94,7 @@ export function HeroSection() {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="mailto:alex@example.com"
+              href="mailto:bhardwajharsh2244@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors duration-300"
               aria-label="Email"
             >

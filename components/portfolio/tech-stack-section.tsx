@@ -14,43 +14,38 @@ const technologies = [
     name: "Python",
     icon: Terminal,
     description: "Data processing & automation",
-    level: "Advanced",
+    level: "Basic",
   },
   {
     name: "JavaScript",
     icon: Braces,
     description: "React, Node.js & full-stack development",
-    level: "Expert",
+    level: "Advanced",
   },
   {
     name: "SQL",
     icon: Database,
-    description: "PostgreSQL, MySQL & database design",
+    description: " MySQL & database design",
     level: "Advanced",
   },
-  {
-    name: "TypeScript",
-    icon: FileCode2,
-    description: "Type-safe applications & APIs",
-    level: "Advanced",
-  },
+  
   {
     name: "React/Next.js",
     icon: Globe,
     description: "Modern frontend development",
-    level: "Expert",
+    level: "Basic",
   },
   {
     name: "Node.js",
     icon: Server,
     description: "Backend services & REST APIs",
-    level: "Advanced",
+    level: "Intermediate",
   },
   {
     name: "AI/ML",
     icon: Cpu,
     description: "Machine learning integration",
-    level: "Intermediate",
+    level: "Basic",
   },
 ]
 

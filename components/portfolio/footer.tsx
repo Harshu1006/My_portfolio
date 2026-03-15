@@ -18,7 +18,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/Harshu1006"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -27,7 +27,7 @@ export function Footer() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/harsh-bhardwaj-152577334/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -36,7 +36,7 @@ export function Footer() {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="mailto:alex@example.com"
+              href="mailto:bhardwajharsh2244@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="Email"
             >
@@ -45,7 +45,7 @@ export function Footer() {
           </div>
 
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Built with <Heart className="w-3 h-3 text-primary" /> by Alex Chen
+            Built with <Heart className="w-3 h-3 text-primary" /> by Harsh Bhardwaj
           </p>
 
           <p className="text-sm text-muted-foreground">
